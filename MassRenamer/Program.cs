@@ -6,7 +6,7 @@ public class Program
     {
         if (args.Length < 3)
         {
-            Console.WriteLine("Usage: MassRenamer.exe <fromFile> <toFile> <targetFolder> [recursive]");
+            Console.WriteLine("Usage: MassRenamer.exe <fromFile> <toFile> <targetFolder> (recursive=true)");
             return;
         }
         
