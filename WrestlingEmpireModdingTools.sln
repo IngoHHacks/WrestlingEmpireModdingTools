@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyTools", "AssemblyTools\AssemblyTools.csproj", "{4844D5CA-8996-48B1-BA92-97215EAE17F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassRenamer", "MassRenamer\MassRenamer.csproj", "{4C49BB22-BD17-4390-B45D-F9A7EE65E9A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4844D5CA-8996-48B1-BA92-97215EAE17F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4844D5CA-8996-48B1-BA92-97215EAE17F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4844D5CA-8996-48B1-BA92-97215EAE17F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4844D5CA-8996-48B1-BA92-97215EAE17F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C49BB22-BD17-4390-B45D-F9A7EE65E9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C49BB22-BD17-4390-B45D-F9A7EE65E9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C49BB22-BD17-4390-B45D-F9A7EE65E9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C49BB22-BD17-4390-B45D-F9A7EE65E9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
